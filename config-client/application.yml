@@ -1,0 +1,6 @@
+sumant:
+   test:
+     property: "sumant"
+     
+configuration:
+  projectName: "testProject-configServer-appYml"
